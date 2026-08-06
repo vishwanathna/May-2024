@@ -2,14 +2,14 @@
 # AWS DEVOPS
 Key Skills: Cloud and Devops Tools
 Cloud: AWS Cloud Technology
-DevOps Tools: Maven
-              Tomcat
-              Jenkins
+DevOps Tools: Jenkins
               Docker
               kubernetes
               Terraform
               SonarQube
               Nexus
               Monitoring
+              
+              
               
               
